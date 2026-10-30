@@ -215,4 +215,4 @@ RECONによる観測は今後も継続する予定であり、この勢力図が
 - [The Hacker News: Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout](https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html)
 - [CPO Magazine: Under Increasing Federal Scrutiny, BlackCat Ransomware Gang Pulls Exit Scam](https://www.cpomagazine.com/cyber-security/under-increasing-federal-scrutiny-blackcat-ransomware-gang-pulls-exit-scam-on-its-way-out/)
 - [JIPDEC: 企業IT利活用動向調査2026](https://www.jipdec.or.jp/library/it-resarch/it-resarch2026-03.html)
-- 出典: RECON Threat Intelligence Dashboard（自己運用基盤）
+- 出典: [RECON Threat Intelligence Dashboard](https://recon.sec-lav.com/ransomware)（自己運用基盤）。グループ別の最新の動きは[ランサムウェア週次動向](https://recon.sec-lav.com/articles/ransomware-weekly-009)で毎週更新している。

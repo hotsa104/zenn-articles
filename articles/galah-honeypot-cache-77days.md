@@ -277,4 +277,4 @@ LLM 生成に失敗すると Galah はそのまま 500 Internal Server Error を
 
 ---
 
-データソース: 独自ハニーポットネットワーク（US/SGP/EU 3拠点、Galah + T-Pot）
+データソース: 独自ハニーポットネットワーク（US/SGP/EU 3拠点、Galah + T-Pot）。拠点別の観測状況は [RECON の LLM ハニーポット画面](https://recon.sec-lav.com/llm-honeypot) で公開している。
